@@ -20,3 +20,8 @@ More information to come . . .
 3. Update with QSL logo
     + Maybe tell story of getting logo ?
 4. Add repos, each repo needs a solid 
+5. Add links
+    1. University of Edinburgh
+    2. NQCC
+    3. QSL
+6. Select some highlight repos to pin to the top of the page.
