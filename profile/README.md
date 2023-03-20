@@ -14,4 +14,9 @@ For a detailed list of our publications go to
 
 More information to come . . .
 
-
+## To do
+1. Change organisation name to appropriate reference for QSL
+2. Include a solid README describing purpose, aims and mission of the QSL GitHub organisation#
+3. Update with QSL logo
+    + Maybe tell story of getting logo ?
+4. Add repos, each repo needs a solid 
