@@ -1,27 +1,21 @@
-## Welcome to Edinburgh and Paris Quantum Virtual Lab
+# Welcome to Edinburgh and Paris Quantum Virtual Lab
 
-We are a quantum computing research group based in Edinburgh and Paris. 
+The Edinburgh and Paris quantum virtual lab (EdiPar) explores and advances the state of art in quantum computing. EdiPar is based concurrently in the UK and France at the  
 
-Some of our research is focused on
++ University of Edinburgh the school of [Quantum Informatics (qi)](https://web.inf.ed.ac.uk/quantum-informatics) and the
++ Sorbonne University and French National Center for Scientific Research [LIP6 - Quantum Information Team](https://qi.lip6.fr/)
 
-1. Cloud computing,
-2. Cyber security,
-3. Machine learning and
-4. Verification.
+We have collaborations with a number of academic and industrial parties.
 
-For a detailed list of our publications go to
-* [Edi-Par Quantum homepage](https://www.ediparquantum.com/)
++ [See our list of collaborators](https://www.ediparquantum.com/collaborations/collaborations/).
 
-More information to come . . .
+Main research areas fall broadly into $4$ main categories.
 
-## To do
-1. Change organisation name to appropriate reference for QSL
-2. Include a solid README describing purpose, aims and mission of the QSL GitHub organisation#
-3. Update with QSL logo
-    + Maybe tell story of getting logo ?
-4. Add repos, each repo needs a solid 
-5. Add links
-    1. University of Edinburgh
-    2. NQCC
-    3. QSL
-6. Select some highlight repos to pin to the top of the page.
+1. [Cloud computing](https://www.ediparquantum.com/research/cloud_computing/),
+2. [Cyber security](https://www.ediparquantum.com/research/cyber_security/),
+3. [Machine learning](https://www.ediparquantum.com/research/machine_learning/) and
+4. [Verification](https://www.ediparquantum.com/research/verification/).
+
+We publish regularly in these areas and submit initial articles to the [ArXiv](https://arxiv.org/)
+
++ [EdiPar publications](https://www.ediparquantum.com/publications/publications/)
