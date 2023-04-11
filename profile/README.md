@@ -19,3 +19,6 @@ Main research areas fall broadly into $4$ main categories.
 We publish regularly in these areas and submit initial articles to the [ArXiv](https://arxiv.org/)
 
 + [EdiPar publications](https://www.ediparquantum.com/publications/publications/)
+
+
+Profile picture is accreddited to Freepik - [Flaticon](https://www.flaticon.com/)
