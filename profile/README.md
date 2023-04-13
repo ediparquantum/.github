@@ -1,6 +1,6 @@
-# Welcome to Edinburgh and Paris Quantum Virtual Lab
+# Welcome to Edinburgh and Paris Quantum Software Lab
 
-The Edinburgh and Paris quantum virtual lab (EdiPar) explores and advances the state of art in quantum computing. EdiPar is based concurrently in the UK and France at the  
+The Edinburgh and Paris quantum software lab (EdiPar) explores and advances the state of art in quantum computing. EdiPar is based concurrently in the UK and France at the  
 
 + University of Edinburgh the school of [Quantum Informatics (qi)](https://web.inf.ed.ac.uk/quantum-informatics) and the
 + Sorbonne University and French National Center for Scientific Research [LIP6 - Quantum Information Team](https://qi.lip6.fr/)
